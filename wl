@@ -1,4 +1,3 @@
 return {
   "CEA839F5-2E8B-4ADC-9F28-6C92AE633DF2",
-  ""
 }
